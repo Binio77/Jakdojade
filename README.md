@@ -36,3 +36,6 @@ Wyjście:/Output:
 40 KIELCE SZCZECIN
 
 ```
+
+# Example tests
+(tests)[./tests.zip]
