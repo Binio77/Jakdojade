@@ -38,4 +38,4 @@ Wyjście:/Output:
 ```
 
 # Example tests
-(tests)[./tests.zip]
+[a link](https://github.com/Binio77/Jakdojade/blob/main/tests.zip)
