@@ -1,4 +1,3 @@
-# Jakdojade
 # Terminal app similar to "Jakdojade" web app
 
 # Example Input and Ouput:
